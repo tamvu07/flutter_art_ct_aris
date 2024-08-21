@@ -1,0 +1,1 @@
+ /Users/tamvu/Downloads/mobile-aris-management-tool.source/.dart_tool/flutter_build/462d9d01589c9570e78e972a1b3960d6/native_assets.yaml: 

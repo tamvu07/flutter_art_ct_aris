@@ -1,0 +1,15 @@
+const String BASE_URL = "http://192.168.1.19:8088";
+const String PATH_INIT = "/api/init";
+const String myLeaves = "/api/leave?per_page=999";
+const String leaveStatistic = "/api/leave/statistic";
+const String leaveManager = "/api/leave/manager?per_page=999";
+const String leaveManagerAction = "/api/leave/action";
+const String leaveCreateChecking = "/api/leave/checking";
+const String leaveCreateForm = "/api/leave/create";
+const String leaveDeleteForm = "/api/leave/delete";
+const String PATH_STAFF_LIST = "/api/employee/staff?per_page=999";
+const String deviceListAll = "/api/borrow/devices?per_page=999";
+const String deviceListBorrowing = "/api/borrow/borrowing?per_page=999";
+const String login = "/api/employee/login";
+const String attendanceData = "/api/attendance";
+const String forgotPassword = "/api/employee/forgot";
