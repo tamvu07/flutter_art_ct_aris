@@ -6,11 +6,34 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		4NI8MckaZmQn+BviNRCIfUBcr4A=
+		G3rHpPwZTaKq90vKIwby9jRdzWo=
+		</data>
+		<key>ReachabilitySwift.bundle/Info.plist</key>
+		<data>
+		dFJwQEOHRe7DI0pHMQy5+U5pB1g=
+		</data>
+		<key>ReachabilitySwift.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		ucg9pita0v8d353x3NuGfxweQYU=
 		</data>
 	</dict>
 	<key>files2</key>
-	<dict/>
+	<dict>
+		<key>ReachabilitySwift.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5Gv8xKdgXF4Z+B8Q/3l4FJJ5dfY4PEFb59JK5SeCn8U=
+			</data>
+		</dict>
+		<key>ReachabilitySwift.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Uh6274Qwdz5cAQ4YOP6d2PpdYre3bRzqjX2NqtyxROI=
+			</data>
+		</dict>
+	</dict>
 	<key>rules</key>
 	<dict>
 		<key>^.*</key>
